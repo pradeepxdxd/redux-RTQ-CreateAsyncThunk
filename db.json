@@ -1,0 +1,71 @@
+{
+  "user": [
+    {
+      "name": "Vickie Hilpert",
+      "id": 1
+    },
+    {
+      "name": "Sophie Reichert",
+      "id": 2
+    }
+  ],
+  "album": [
+    {
+      "userId": 1,
+      "title": "Unbranded Fresh Table",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Fresh Computer",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Unbranded Rubber Shirt",
+      "id": 3
+    }
+  ],
+  "photo": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5712519075201024",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6758396151726080",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3898235443740672",
+      "id": 3
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8055210131849216",
+      "id": 4
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7880137720725504",
+      "id": 5
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8251704562679808",
+      "id": 6
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8701905521868800",
+      "id": 7
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2097440471646208",
+      "id": 8
+    }
+  ]
+}
